@@ -1,0 +1,17 @@
+.message_container{
+    /* background-color: rgb(246, 246, 246); */
+    /* padding: 50px 0px; */
+    padding-bottom: 50px;
+    height: 600px;
+    width: 100%;
+
+}
+
+.outer{
+    height: 100vh;
+}
+
+.scroll{
+    height: 750px;
+    width: 100%;
+}
