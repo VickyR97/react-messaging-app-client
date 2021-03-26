@@ -70,7 +70,7 @@ function Chat({ location, history }) {
           })}
         </ScrollToBottom>
 
-        <div className="container fixed-bottom mb-5">
+        <div className="container fixed-bottom">
           <div>
             <form>
               <div className="form-group d-flex">
